@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1756299560242",
+    "nome": "Desenvolvimento Máquina",
+    "preco": 6070.99,
+    "descricao": "",
+    "categoria": "Esportes",
+    "imagem": "https://totalhealth.com.br/uploads/pagina/elemento/campo/2021/03/3KLHjzrUpcIm2VUp/principal-shoulder-press-machine.png",
+    "createdAt": "2025-08-27T12:59:20.242Z",
+    "updatedAt": "2025-08-27T12:59:20.242Z"
+  },
+  {
+    "id": "1756299647330",
+    "nome": "Remada Baixa Multipegada",
+    "preco": 11990,
+    "descricao": "",
+    "categoria": "Esportes",
+    "imagem": "https://d1fitness.com.br/cdn/shop/files/ecc4958d-3d9b-ae31-a518-f0bff70ef164.jpg?v=1721854395&width=1946",
+    "createdAt": "2025-08-27T13:00:47.330Z",
+    "updatedAt": "2025-08-27T13:02:15.196Z"
+  }
+]
